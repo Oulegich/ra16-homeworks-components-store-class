@@ -1,7 +1,7 @@
 Страница интернет-магазина
 ===
-
-
+[![Build status](https://ci.appveyor.com/api/projects/status/8jcl4sqsq7s4sw0y?svg=true)](https://ci.appveyor.com/project/Oulegich/ra16-homeworks-components-store-class)
+[[GithubPages]([https://oulegich.github.io/ra16-homeworks-components-store-class/)]
 
 Необходимо создать React-компонент `ShopItemClass` (class-based компонент), с помощью которого мы могли бы реализовывать представление информации о товарах из нашего каталога на сайте в таком виде (компонент обведён пунктирной линией):
 ![Внешний вид страницы после реализации компонента](./pic/preview.png)
